@@ -1,0 +1,28 @@
+*.DS_Store
+*.pyc
+*.swp
+*.eps
+*.log
+*.pdf
+*.png
+*.gp
+*.weight
+*.pt
+*.pth.tar
+temp/*
+dist/*
+build/*
+tags
+logs/*
+outputs/*
+app/runs/*
+old/app/runs*
+.venv/*
+venv/*
+# test-related
+.coverage
+.cache
+
+# developer environments
+.idea
+
