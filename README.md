@@ -11,4 +11,13 @@ It contains 15 sequences with associated absolute ground truth trajectory and in
 
 # Code
 
-Soon Available
+## Dependencies
+
+```
+pytorch 3.8
+pyquaternion
+scipy
+opencv-python
+pyyaml
+tensorboardX
+```
